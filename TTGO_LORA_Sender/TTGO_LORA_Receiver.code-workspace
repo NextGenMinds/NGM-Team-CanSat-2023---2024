@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../TTGO_LORA_Receiver"
+		},
+		{
+			"name": "TTGO_LORA_Sender",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
